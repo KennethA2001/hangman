@@ -1,0 +1,62 @@
+Hangman; created by Coop Dogg and made better by Kenneth Alexander
+ _   _   ___   _   _ _____ ___  ___  ___   _   _  
+| | | | / _ \ | \ | |  __ \|  \/  | / _ \ | \ | | 
+| |_| |/ /_\ \|  \| | |  \/| .  . |/ /_\ \|  \| | 
+|  _  ||  _  || . ` | | __ | |\/| ||  _  || . ` | 
+| | | || | | || |\  | |_\ \| |  | || | | || |\  | 
+\_| |_/\_| |_/\_| \_/\____/\_|  |_/\_| |_/\_| \_/ 
+
+
+What is your name?
+Kenneth
+It is nice to meet you, Kenneth.
+---------
+Sttrikes: 0
+Guess a letter Kenneth!e
+--e --e--
+Sttrikes: 0
+Guess a letter Kenneth!t
+--e --e--
+Sttrikes: 1
+Guess a letter Kenneth!i
+i-e --e--
+Sttrikes: 1
+Guess a letter Kenneth!c
+ice c-e--
+Sttrikes: 1
+Guess a letter Kenneth!r
+ice cre--
+Sttrikes: 1
+Guess a letter Kenneth!a
+ice crea-
+Sttrikes: 1
+Guess a letter Kenneth!m
+ice cream
+Sttrikes: 1
+
+ You have won
+
+Would you like to play again? (y/n) y
+----
+Sttrikes: 0
+Guess a letter Kenneth!e
+e---
+Sttrikes: 0
+Guess a letter Kenneth!a
+ea--
+Sttrikes: 0
+Guess a letter Kenneth!s
+eas-
+Sttrikes: 0
+Guess a letter Kenneth!y
+easy
+Sttrikes: 0
+ You have won
+Would you like to play again? (y/n) n
+ _   __                      _   _       __   __      _______  __      _______  _____  __   ______
+| | / /                     | | | |     /  | /  |    / / __  \/  |    / / __  \|  _  |/  | |___  /
+| |/ /  ___ _ __  _ __   ___| |_| |__   `| | `| |   / /`' / /'`| |   / /`' / /'| |/' |`| |    / / 
+|    \ / _ \ '_ \| '_ \ / _ \ __| '_ \   | |  | |  / /   / /   | |  / /   / /  |  /| | | |   / /  
+| |\  \  __/ | | | | | |  __/ |_| | | | _| |__| |_/ /  ./ /____| |_/ /  ./ /___\ |_/ /_| |_./ /   
+\_| \_/\___|_| |_|_| |_|\___|\__|_| |_| \___/\___/_/   \_____/\___/_/   \_____/ \___/ \___/\_/    
+
