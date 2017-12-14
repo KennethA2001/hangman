@@ -1,0 +1,97 @@
+Hangman; created by Coop Dogg and made better by Kenneth Alexander
+ _   _   ___   _   _ _____ ___  ___  ___   _   _
+| | | | / _ \ | \ | |  __ \|  \/  | / _ \ | \ | |
+| |_| |/ /_\ \|  \| | |  \/| .  . |/ /_\ \|  \| |
+|  _  ||  _  || . ` | | __ | |\/| ||  _  || . ` |
+| | | || | | || |\  | |_\ \| |  | || | | || |\  |
+\_| |_/\_| |_/\_| \_/\____/\_|  |_/\_| |_/\_| \_/
+
+What is your name?
+Kenneth
+It is nice to meet you, Kenneth.
+1 fastfood
+
+2 movies
+
+3 random
+
+4 Superheros
+
+5 Tv
+
+pick one 1
+['fastfood', 'zaxbys', 'chick-fil-a', 'McDonalds', 'applebees', 'wendys', 'burger king', 'KFC', 'popeyes', 'moes', 'chipotle']
+--------
+Sttrikes: 0
+Guess a letter Kenneth!w
+--------
+Sttrikes: 1
+Guess a letter Kenneth!c
+c-------
+Sttrikes: 1
+Guess a letter Kenneth!h
+ch------
+Sttrikes: 1
+Guess a letter Kenneth!i
+chi-----
+Sttrikes: 1
+Guess a letter Kenneth!c
+chi-----
+Sttrikes: 1
+Guess a letter Kenneth!k
+chi-----
+Sttrikes: 2
+Guess a letter Kenneth!p
+chip----
+Sttrikes: 2
+Guess a letter Kenneth!t
+chip-t--
+Sttrikes: 2
+Guess a letter Kenneth!l
+chip-tl-
+Sttrikes: 2
+Guess a letter Kenneth!e
+chip-tle
+Sttrikes: 2
+Guess a letter Kenneth!o
+chipotle
+Sttrikes: 2
+ You have won
+Would you like to play again? (y/n) y
+1 fastfood
+
+2 movies
+
+3 random
+
+4 Superheros
+
+5 Tv
+
+pick one 4
+['Superheros', 'batman', 'superman', 'flash', 'catwoman', 'iron man', 'captain america', 'hulk', 'ant man', 'black panther', 'spider man', 'wolverine', 'silver surfer', 'deadpool', 'daredevil', 'jean grey', 'thor', 'mr. fantstic', 'thing', 'cyclops', 'punisher', 'human torch', 'hawkeye', 'gambit', 'professor x', 'hank pym', 'storm', 'invisible woman', 'iron fist', 'beast', 'nova', 'carole danvors', 'moon knight', 'nightcrawler', 'black widow', 'nick fury', 'luke cage', 'scarlet witch', 'colossus', 'emma frost', 'bucky barnes', 'War Machine', 'electra', 'vision', 'falcon', 'quicksilver', 'ice man', 'ghostrider', 'blackbolt', 'she-hulk', 'rogue', 'wasp', 'captain britain', 'havok', 'wonder man', 'spider woman', 'adam warlock', 'x-23', 'banshee', 'speedball', 'starlord', 'drax', 'gamora', 'groot', 'beta ray bill', 'mockingbird', 'captain universe', 'spider-girl', 'spider-kid', 'valkyrienorthstar', 'magmac', 'crystal', 'howard the duck', 'yperion', 'rick jones', 'wiccan', 'medusa', 'moonstar', 'sif', '3d man', 'firestar', 'wolfsbane', 'night thrasher', 'kid colt', 'boom boom', 'nighthawk', 'guardian', 'us agent', 'triton', 'rockslide', 'hellcat', 'black knight', 'strong guy', 'spectrum', 'sharon carter', 'daken', 'justice', 'misty knight', 'puck', 'bandit', 'cannonball', 'aromor', 'thunderbird', 'surge', 'wong', 'hulkling', 'hogun', 'darkhawk', 'pixie', 'patriot', 'morph', 'alex power', 'snowbird', 'swordsman', 'darwin', 'amadeus cho', 'flash thompson', 'm', 'hepzibah', 'skids', 'namorita', 'jessica jones', 'squirrel girl', 'paladin', 'match', 'gravity', 'zabu']
+----
+Sttrikes: 0
+Guess a letter Kenneth!m
+----
+Sttrikes: 1
+Guess a letter Kenneth!z
+z---
+Sttrikes: 1
+Guess a letter Kenneth!a
+za--
+Sttrikes: 1
+Guess a letter Kenneth!b
+zab-
+Sttrikes: 1
+Guess a letter Kenneth!u
+zabu
+Sttrikes: 1
+ You have won
+Would you like to play again? (y/n) n
+ _   __                      _   _       __   __      _______  __      _______  _____  __   ______
+| | / /                     | | | |     /  | /  |    / / __  \/  |    / / __  \|  _  |/  | |___  /
+| |/ /  ___ _ __  _ __   ___| |_| |__   `| | `| |   / /`' / /'`| |   / /`' / /'| |/' |`| |    / / 
+|    \ / _ \ '_ \| '_ \ / _ \ __| '_ \   | |  | |  / /   / /   | |  / /   / /  |  /| | | |   / /  
+| |\  \  __/ | | | | | |  __/ |_| | | | _| |__| |_/ /  ./ /____| |_/ /  ./ /___\ |_/ /_| |_./ /   
+\_| \_/\___|_| |_|_| |_|\___|\__|_| |_| \___/\___/_/   \_____/\___/_/   \_____/ \___/ \___/\_/ 
